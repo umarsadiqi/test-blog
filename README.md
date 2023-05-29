@@ -39,13 +39,11 @@ Given the present demand for more comprehensive and sector-specific digital solu
 
 Even if financial investors somewhat reduce their commitment, strategic investments and M&A in the healthtech sector will rise. [[1]](https://www.bcg.com/publications/2023/driving-the-future-of-digital-health)
 
-[https://www.bcg.com/publications/2023/driving-the-future-of-digital-health](https://www.bcg.com/publications/2023/driving-the-future-of-digital-health)
 
 
 ## HeadingInnovation of future health care
 A new set of forces buffeting our industry foretell, perhaps, a significant restructuring of our sector. While challenges to healthcare affordability and access, and industry economics abound, so too do opportunities for rapid, at-scale innovation to improve the future of care.[[2]](https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare)
 
-[https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare](https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare)
 
 ## 2040: The health system we envision
 
@@ -65,14 +63,12 @@ Whether it’s just one or several of these archetypes, life sciences and health
 
 What role will you play in the future of health?[[3]](https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html)
 
-[https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html](https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html)
 
 ## EXECUTIVE SUMMARY
 The healthcare industry is going to undergo a phase of rapid transformation, like many other industries. One of the numerous forces driving patient empowerment, which is profoundly altering how we prevent, diagnose, and treat diseases, is longevity and the development of new technology and scientific discoveries, as well as creative combinations of already existing ones.
 
 We asked healthcare industry professionals to forecast the technologies and breakthroughs we will see in the short term (the next five years) and in the long term (the next 25 years) in order to better grasp what we should anticipate in the years to come. The panel's opinions were then put to the test by 400 global business executives in and around the healthcare industry, and we asked them if they agreed with them and what they believed to be the largest obstacle.[[4]](https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds)
 
-[https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds](https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds)
 
 
 ## Conclusion
