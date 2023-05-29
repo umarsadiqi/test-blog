@@ -4,6 +4,8 @@
 
 Healthcare, as we know it, has always been a multifaceted, evolving realm, characterized by ongoing innovation, rigorous research, and empathetic caregiving. In recent years, however, an acceleration in technological advancements has profoundly reshaped how healthcare is perceived and delivered. The journey from ancient medicine to sophisticated, digital-driven health systems has been remarkable, and the future promises even more dramatic transformations [(Zarocostas, 2020)](https://doi.org/10.1016/S0140-6736(20)30461-X).
 
+![Image: A collage featuring a stethoscope, medical personnel, medical research labs, and digital health applications.](https://github.com/prithivraj09/future-of-health-care/raw/main/images/image-1.jpg)
+
 ## Harnessing Technological Advances
 
 The application of technology in healthcare has transcended conventional boundaries, and the results have been game-changing. Artificial Intelligence (AI) and Machine Learning (ML) are making strides into diagnostics, prognosis, and treatment [(Topol, 2019)](https://doi.org/10.1038/s41591-018-0300-7). AI algorithms have demonstrated an ability to detect diseases earlier, predict patient outcomes with improved accuracy, and even contribute to the development of personalized treatment plans.
@@ -11,6 +13,8 @@ The application of technology in healthcare has transcended conventional boundar
 Wearable health technologies like smartwatches and fitness trackers have democratized health data by enabling self-monitoring and wellness tracking. These technologies are revolutionizing how we approach wellness and disease management, shifting some responsibility onto the individuals themselves [(Piwek et al., 2016)](https://doi.org/10.1371/journal.pmed.1001953).
 
 Meanwhile, telemedicine and virtual care have broken geographical barriers, making healthcare more accessible. Amid a pandemic-stricken world, these technologies have proven to be a lifeline, facilitating continuity of care while ensuring safety [(Hollander & Carr, 2020)](https://doi.org/10.1056/NEJMp2003539).
+
+![Image: A graphic representation of AI in healthcare, a person wearing a smartwatch, and a doctor providing teleconsultation](https://github.com/prithivraj09/future-of-health-care/raw/main/images/image-2.jpg)
 
 ## The Role of Precision Medicine
 
@@ -23,6 +27,9 @@ Despite the marvels of medical technology and targeted treatments, the adage 'pr
 ## The Urgency of Health Equity
 
 While the healthcare landscape is gleaming with advancements, the reality of health disparities remains a stark challenge. Socioeconomic factors, geographical location, and systemic prejudices often impede access to quality healthcare for marginalized communities [(Marmot, 2005)](https://doi.org/10.1016/S0140-6736%2805%2971146-6). Innovative approaches like mobile clinics, community health workers, and digital health technologies are increasingly recognized for their potential to bridge this health divide, but much more remains to be done.
+
+![Image: A vibrant infographic highlighting the pillars of preventive healthcare](
+https://github.com/prithivraj09/future-of-health-care/raw/main/images/image-4.png)
 
 
 ## Future of Digital Health
@@ -39,11 +46,13 @@ Given the present demand for more comprehensive and sector-specific digital solu
 
 Even if financial investors somewhat reduce their commitment, strategic investments and M&A in the healthtech sector will rise. [[1]](https://www.bcg.com/publications/2023/driving-the-future-of-digital-health)
 
+[https://www.bcg.com/publications/2023/driving-the-future-of-digital-health](https://www.bcg.com/publications/2023/driving-the-future-of-digital-health)
 
 
 ## HeadingInnovation of future health care
 A new set of forces buffeting our industry foretell, perhaps, a significant restructuring of our sector. While challenges to healthcare affordability and access, and industry economics abound, so too do opportunities for rapid, at-scale innovation to improve the future of care.[[2]](https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare)
 
+[https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare](https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare)
 
 ## 2040: The health system we envision
 
@@ -63,12 +72,23 @@ Whether it’s just one or several of these archetypes, life sciences and health
 
 What role will you play in the future of health?[[3]](https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html)
 
+[https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html](https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html)
+
+## Telemedicine Use Among Adults: United States, 2021
+Telemedicine, which allows medical professionals to offer clinical healthcare services to their patients remotely via computer or phone, eliminating the need for a physical office visit, has become a game-changer in the healthcare industry. It has offered significant advantages, including enhanced accessibility to healthcare services, increased convenience, and an effective way to curb the spread of infections. In the wake of the COVID-19 pandemic, new policies have further broadened the scope for telemedicine healthcare services. This article utilizes data from the 2021 National Health Interview Survey (NHIS) to shed light on the percentage of adults who have leveraged telemedicine in the preceding 12 months, presenting a breakdown based on various sociodemographic and geographic factors.
+#### What percentage of adults used telemedicine in the past 12 months, and were differences observed by sex and age?
+
+![Percentage of adults aged 18 and over who used telemedicine in the past 12 months, by sex and age: United States, 2021](https://www.cdc.gov/nchs/images/databriefs/401-450/db445-fig1.png)
+
+#### Did telemedicine use in the past 12 months differ by race and Hispanic origin?
+![Percentage of adults aged 18 and over who used telemedicine in the past 12 months, by race and Hispanic origin: United States, 2021](https://www.cdc.gov/nchs/images/databriefs/401-450/db445-fig2.png)
 
 ## EXECUTIVE SUMMARY
 The healthcare industry is going to undergo a phase of rapid transformation, like many other industries. One of the numerous forces driving patient empowerment, which is profoundly altering how we prevent, diagnose, and treat diseases, is longevity and the development of new technology and scientific discoveries, as well as creative combinations of already existing ones.
 
 We asked healthcare industry professionals to forecast the technologies and breakthroughs we will see in the short term (the next five years) and in the long term (the next 25 years) in order to better grasp what we should anticipate in the years to come. The panel's opinions were then put to the test by 400 global business executives in and around the healthcare industry, and we asked them if they agreed with them and what they believed to be the largest obstacle.[[4]](https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds)
 
+[https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds](https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds)
 
 
 ## Conclusion
@@ -80,24 +100,24 @@ The future of healthcare is here, teeming with possibilities, marked by technolo
 
 ## References:
 
-Collins, F. S., & Varmus, H. (2015). A new initiative on precision medicine. The New England journal of medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
+- Collins, F. S., & Varmus, H. (2015). A new initiative on precision medicine. The New England journal of medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
 
-Hollander, J. E., & Carr, B. G. (2020). Virtually Perfect? Telemedicine for Covid-19. The New England journal of medicine, 382(18), 1679–1681. https://doi.org/10.1056/NEJMp2003539
+- Hollander, J. E., & Carr, B. G. (2020). Virtually Perfect? Telemedicine for Covid-19. The New England journal of medicine, 382(18), 1679–1681. https://doi.org/10.1056/NEJMp2003539
 
-Kohl, H. W., Craig, C. L., Lambert, E. V., Inoue, S., Alkandari, J. R., Leetongin, G., & Kahlmeier, S. (2012). The pandemic of physical inactivity: global action for public health. The Lancet, 380(9838), 294-305. https://doi.org/10.1016/S0140-6736(12)60898-8
+- Kohl, H. W., Craig, C. L., Lambert, E. V., Inoue, S., Alkandari, J. R., Leetongin, G., & Kahlmeier, S. (2012). The pandemic of physical inactivity: global action for public health. The Lancet, 380(9838), 294-305. https://doi.org/10.1016/S0140-6736(12)60898-8
 
-Marmot, M. (2005). Social determinants of health inequalities. The Lancet, 365(9464), 1099-1104. https://doi.org/10.1016/S0140-6736(05)71146-6
+- Marmot, M. (2005). Social determinants of health inequalities. The Lancet, 365(9464), 1099-1104. https://doi.org/10.1016/S0140-6736(05)71146-6
 
-Piwek, L., Ellis, D. A., Andrews, S., & Joinson, A. (2016). The rise of consumer health wearables: promises and barriers. PLoS medicine, 13(2), e1001953. https://doi.org/10.1371/journal.pmed.1001953
+- Piwek, L., Ellis, D. A., Andrews, S., & Joinson, A. (2016). The rise of consumer health wearables: promises and barriers. PLoS medicine, 13(2), e1001953. https://doi.org/10.1371/journal.pmed.1001953
 
-Topol, E. J. (2019). High-performance medicine: the convergence of human and artificial intelligence. Nature Medicine, 25(1), 44-56. https://doi.org/10.1038/s41591-018-0300-7
+- Topol, E. J. (2019). High-performance medicine: the convergence of human and artificial intelligence. Nature Medicine, 25(1), 44-56. https://doi.org/10.1038/s41591-018-0300-7
 
-Zarocostas, J. (2020). How to fight an infodemic. The Lancet, 395(10225), 676. https://doi.org/10.1016/S0140-6736(20)30461-X
+- Zarocostas, J. (2020). How to fight an infodemic. The Lancet, 395(10225), 676. https://doi.org/10.1016/S0140-6736(20)30461-X
 
-Boston Consulting Group. (2023). Driving the Future of Digital Health. Retrieved May 29, 2023, from https://www.bcg.com/publications/2023/driving-the-future-of-digital-health
+- Boston Consulting Group. (2023). Driving the Future of Digital Health. Retrieved May 29, 2023, from https://www.bcg.com/publications/2023/driving-the-future-of-digital-health
 
-McKinsey & Company. (n.d.). The Future of Healthcare. Retrieved May 29, 2023, from https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare
+- McKinsey & Company. (n.d.). The Future of Healthcare. Retrieved May 29, 2023, from https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare
 
-Deloitte United States. (n.d.). Future of Health. Retrieved May 29, 2023, from https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html
+- Deloitte United States. (n.d.). Future of Health. Retrieved May 29, 2023, from https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-health.html
 
-The Economist Group. (n.d.). Healthcare. Retrieved May 29, 2023, from https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds
+- The Economist Group. (n.d.). Healthcare. Retrieved May 29, 2023, from https://thefutureishere.economist.com/healthcare/?ppccampaignID=&ppcadID=&ppcgclID=&ppccampaignID=&ppcadID=&ppcgclID=&utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=EAIaIQobChMImMjDyfCa_wIVB4doCR1rhgG9EAAYASAAEgJk5vD_BwE&gclsrc=aw.ds
